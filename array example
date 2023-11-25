@@ -1,6 +1,5 @@
 public class DemoArray {
-       public static void main(String[] args) 
-    {
+       public static void main(String[] args) {
         //int val=10;
         int[] intArray = new int[6];  // n=10 - 0 to n-1
         intArray[0]=43;
