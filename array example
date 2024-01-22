@@ -10,7 +10,6 @@ public class DemoArray {
         intArray[5]=22;
         int value=intArray[3];
 
-
         System.out.print(value+",");
        System.out.print(intArray[3]+",");
        System.out.print(intArray[5]+",");
@@ -23,7 +22,6 @@ public class DemoArray {
 
         Object[] objects= {"chennai",23.2,true,'c',32.34d};
         var stringVal= objects[3];
-        
         System.out.print(stringVal+",");
     }
 }
