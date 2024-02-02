@@ -9,7 +9,6 @@ public class DemoArray {
         intArray[4]= 34;
         intArray[5]=22;
         int value=intArray[3];
-
         System.out.print(value+",");
        System.out.print(intArray[3]+",");
        System.out.print(intArray[5]+",");
